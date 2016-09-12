@@ -1,9 +1,5 @@
 <application>
   <component name="EditorSettings">
     <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingEnabled" value="false" />
   </component>
 </application>
