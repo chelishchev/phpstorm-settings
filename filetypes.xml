@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.pyc;.pyo;.svn;CVS;RCS;SCCS;__pycache__;_svn;log.txt;rcs;" />
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;log.txt;rcs;" />
     <extensionMap>
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="CopyDirFiles" type="PLAIN_TEXT" />
+      <mapping pattern=".title" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
