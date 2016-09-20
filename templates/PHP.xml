@@ -1,15 +1,16 @@
 <templateSet group="PHP">
-  <template name="thr" value="throw new $END$" description="throw new " toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="PHP Statement" value="true" />
-    </context>
-  </template>
   <template name="t" value="$this-&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="``" value="-&gt;" description="-&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ad" value="AddMessage2Log($AA$);" description="AddMessage2Log" toReformat="false" toShortenFQNames="true">
+    <variable name="AA" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
