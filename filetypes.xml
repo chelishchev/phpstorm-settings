@@ -6,6 +6,7 @@
       <mapping pattern=".title" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
+      <mapping ext="jvmoptions" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
