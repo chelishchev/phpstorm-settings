@@ -20,8 +20,13 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
