@@ -15,4 +15,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="=" value=" =&gt; $a$," description="=&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
