@@ -1,6 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Bitrix\Main\Loader.includeModule(moduleName)" />
+      </blacklist>
+    </blacklists>
     <showIfParamNameContained value="true" />
     <showWhenMultipleParamsWithSameType value="false" />
   </component>
