@@ -1,4 +1,5 @@
 <list display="Debug">
   <action id="RunConfiguration" />
+  <action id="Debug" />
   <action id="PhpListenDebugAction" />
 </list>
