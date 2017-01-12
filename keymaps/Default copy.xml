@@ -24,6 +24,12 @@
   <action id="Images.ShowThumbnails" />
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
+  <action id="QuickList.Debug">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="QuickList.HG">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>

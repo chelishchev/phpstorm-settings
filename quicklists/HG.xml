@@ -1,0 +1,9 @@
+<list display="HG">
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="Vcs.ShowHistoryForBlock" />
+  <action id="hg4idea.pull" />
+  <action id="Vcs.Push" />
+  <action id="hg4idea.run.conflict.resolver" />
+  <action id="hg4idea.merge.files" />
+  <action id="hg4idea.branches" />
+</list>
