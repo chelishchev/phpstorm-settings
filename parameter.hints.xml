@@ -4,6 +4,7 @@
       <blacklist language="PHP">
         <added pattern="\Bitrix\Main\Loader.includeModule(moduleName)" />
         <added pattern="\Bitrix\Main\DB\Connection.query(sql)" />
+        <added pattern="\sleep(seconds)" />
       </blacklist>
     </blacklists>
   </component>
