@@ -5,6 +5,7 @@
         <added pattern="\Bitrix\Main\Loader.includeModule(moduleName)" />
         <added pattern="\Bitrix\Main\DB\Connection.query(sql)" />
         <added pattern="\sleep(seconds)" />
+        <added pattern="\Bitrix\Main\Localization\Loc.getMessage(code,replace,language)" />
       </blacklist>
     </blacklists>
   </component>
