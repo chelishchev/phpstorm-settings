@@ -10,6 +10,7 @@
         <added pattern="\ini_set(varname,newvalue)" />
         <added pattern="\var_dump(expression,_)" />
         <added pattern="\Bitrix\Disk\Driver.getStorageByCommonId(commonId)" />
+        <added pattern="\Bitrix\Main\DB\Connection.queryExecute(sql,binds)" />
       </blacklist>
     </blacklists>
   </component>
