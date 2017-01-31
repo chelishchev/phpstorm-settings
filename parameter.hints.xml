@@ -9,6 +9,7 @@
         <added pattern="\error_reporting(level)" />
         <added pattern="\ini_set(varname,newvalue)" />
         <added pattern="\var_dump(expression,_)" />
+        <added pattern="\Bitrix\Disk\Driver.getStorageByCommonId(commonId)" />
       </blacklist>
     </blacklists>
   </component>
