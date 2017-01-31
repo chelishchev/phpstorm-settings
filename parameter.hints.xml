@@ -6,6 +6,9 @@
         <added pattern="\Bitrix\Main\DB\Connection.query(sql)" />
         <added pattern="\sleep(seconds)" />
         <added pattern="\Bitrix\Main\Localization\Loc.getMessage(code,replace,language)" />
+        <added pattern="\error_reporting(level)" />
+        <added pattern="\ini_set(varname,newvalue)" />
+        <added pattern="\var_dump(expression,_)" />
       </blacklist>
     </blacklists>
   </component>
