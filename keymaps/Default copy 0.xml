@@ -31,6 +31,9 @@
   <action id="QuickList.Debug">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="QuickList.Deployment">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="QuickList.HG">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
