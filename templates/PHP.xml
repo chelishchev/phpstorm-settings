@@ -9,7 +9,8 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ad" value="AddMessage2Log($AA$);" description="AddMessage2Log" toReformat="false" toShortenFQNames="true">
+  <template name="ad" value="AddMessage2Log(array($NUMBER$, $AA$));" description="AddMessage2Log" toReformat="false" toShortenFQNames="true">
+    <variable name="NUMBER" expression="lineNumber()" defaultValue="" alwaysStopAt="false" />
     <variable name="AA" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
