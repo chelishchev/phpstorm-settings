@@ -13,6 +13,7 @@
         <added pattern="\Bitrix\Main\DB\Connection.queryExecute(sql,binds)" />
         <added pattern="\Bitrix\Main\DB\Connection.queryScalar(sql,binds)" />
         <added pattern="\Bitrix\Main\EventManager.addEventHandler(fromModuleId,eventType,callback,includeFile,sort)" />
+        <added pattern="\Bitrix\Main\Event.getParameter(key)" />
       </blacklist>
     </blacklists>
   </component>
