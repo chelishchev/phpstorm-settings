@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="updater.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +22,16 @@
       <mask>*.*</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>u</mask>
+      <mask>up</mask>
+      <mask>upd</mask>
+      <mask>upda</mask>
+      <mask>update</mask>
+      <mask>updater,</mask>
+      <mask>updater</mask>
+      <mask>updater.</mask>
+      <mask>updater.p</mask>
+      <mask>updater.php</mask>
     </recentFileMasks>
   </component>
 </application>
