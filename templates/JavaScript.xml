@@ -34,4 +34,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="cd" value="console.debug($LINE_NUMBER$);" description="console.debug" toReformat="false" toShortenFQNames="true">
+    <variable name="LINE_NUMBER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
