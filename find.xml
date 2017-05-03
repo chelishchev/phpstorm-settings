@@ -2,11 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,7 +19,6 @@
       <mask>.parameters.php</mask>
       <mask>*.*</mask>
       <mask>*.js</mask>
-      <mask>*.php</mask>
       <mask>u</mask>
       <mask>up</mask>
       <mask>upd</mask>
@@ -31,6 +29,8 @@
       <mask>updater.</mask>
       <mask>updater.p</mask>
       <mask>updater.php</mask>
+      <mask>.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
