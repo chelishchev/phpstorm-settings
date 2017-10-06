@@ -11,6 +11,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="index.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,19 +24,23 @@
       <mask>template.php</mask>
       <mask>.parameters.php</mask>
       <mask>*.*</mask>
+      <mask>updater,</mask>
+      <mask>updater.p</mask>
+      <mask>.php</mask>
+      <mask>*.php</mask>
+      <mask>*.js</mask>
       <mask>u</mask>
       <mask>up</mask>
       <mask>upd</mask>
       <mask>upda</mask>
+      <mask>updat</mask>
       <mask>update</mask>
-      <mask>updater,</mask>
       <mask>updater</mask>
       <mask>updater.</mask>
-      <mask>updater.p</mask>
       <mask>updater.php</mask>
-      <mask>.php</mask>
-      <mask>*.php</mask>
-      <mask>*.js</mask>
+      <mask>i.php</mask>
+      <mask>inde.php</mask>
+      <mask>index.php</mask>
     </recentFileMasks>
   </component>
 </application>
