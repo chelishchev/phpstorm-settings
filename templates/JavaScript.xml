@@ -7,7 +7,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cl" value="console.log($LINE_NUMBER$);" description="console.log" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.warn($LINE_NUMBER$);" description="console.log" toReformat="false" toShortenFQNames="true">
     <variable name="LINE_NUMBER" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
