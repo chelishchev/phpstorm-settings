@@ -15,6 +15,7 @@
         <added pattern="\Bitrix\Main\EventManager.addEventHandler(fromModuleId,eventType,callback,includeFile,sort)" />
         <added pattern="\Bitrix\Main\Event.getParameter(key)" />
         <added pattern="\app\models\LogOperations.mark(name,data)" />
+        <added pattern="\Bitrix\Main\HttpRequest.getPost(name)" />
       </blacklist>
     </blacklists>
   </component>

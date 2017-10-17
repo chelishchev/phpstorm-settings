@@ -2,11 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
+    <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
@@ -21,18 +19,22 @@
       <mask>template.php</mask>
       <mask>.parameters.php</mask>
       <mask>*.*</mask>
+      <mask>updater,</mask>
+      <mask>updater.p</mask>
+      <mask>.php</mask>
       <mask>*.js</mask>
       <mask>u</mask>
       <mask>up</mask>
       <mask>upd</mask>
       <mask>upda</mask>
+      <mask>updat</mask>
       <mask>update</mask>
-      <mask>updater,</mask>
       <mask>updater</mask>
       <mask>updater.</mask>
-      <mask>updater.p</mask>
       <mask>updater.php</mask>
-      <mask>.php</mask>
+      <mask>i.php</mask>
+      <mask>inde.php</mask>
+      <mask>index.php</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>

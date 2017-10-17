@@ -40,4 +40,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="ech" value="&lt;?= $a$ ?&gt;" description="&lt;?= ?&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
