@@ -45,4 +45,16 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="clc" value="console.warn($A$);" description="console.log copy" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="clm" value="console.warn($A$);" description="console.log method" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
