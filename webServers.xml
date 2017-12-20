@@ -4,6 +4,9 @@
       <webServer id="4c2d6fb8-6ef7-4b85-b776-0905816f2f51" name="oms" url="http://oms">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="903e3795-b266-4b29-ac42-8947dcb16610" name="ooms" url="http://ooms">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
