@@ -22,6 +22,10 @@
         <added pattern="\Bitrix\Main\Entity\Query.whereIn(column,values)" />
         <added pattern="\Bitrix\Main\Entity\Query.whereNotNull(column)" />
         <added pattern="\Bitrix\Main\Entity\Query.whereLike(column,value)" />
+        <added pattern="\Bitrix\Main\Entity\Query.addSelect(definition,alias)" />
+        <added pattern="\Bitrix\Main\Entity\Query.addOrder(definition,order)" />
+        <added pattern="\Bitrix\Main\Entity\Query.addUnionOrder(definition,order)" />
+        <added pattern="\Bitrix\Main\Entity\Query.setUnionLimit(limit)" />
       </blacklist>
     </blacklists>
   </component>
