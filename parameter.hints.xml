@@ -16,6 +16,12 @@
         <added pattern="\Bitrix\Main\Event.getParameter(key)" />
         <added pattern="\app\models\LogOperations.mark(name,data)" />
         <added pattern="\Bitrix\Main\HttpRequest.getPost(name)" />
+        <added pattern="\Bitrix\Main\Entity\Query.where(filter)" />
+        <added pattern="\Bitrix\Main\Entity\Query.whereNull(column)" />
+        <added pattern="\Bitrix\Main\Entity\Query.whereColumn(filter)" />
+        <added pattern="\Bitrix\Main\Entity\Query.whereIn(column,values)" />
+        <added pattern="\Bitrix\Main\Entity\Query.whereNotNull(column)" />
+        <added pattern="\Bitrix\Main\Entity\Query.whereLike(column,value)" />
       </blacklist>
     </blacklists>
   </component>
