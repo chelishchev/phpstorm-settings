@@ -27,6 +27,7 @@
         <added pattern="\Bitrix\Main\Entity\Query.addUnionOrder(definition,order)" />
         <added pattern="\Bitrix\Main\Entity\Query.setUnionLimit(limit)" />
         <added pattern="\CJSCore.RegisterExt(name,arPaths)" />
+        <added pattern="\CAllMain.IncludeComponent(componentName,componentTemplate,arParams,parentComponent,arFunctionParams)" />
       </blacklist>
     </blacklists>
   </component>
