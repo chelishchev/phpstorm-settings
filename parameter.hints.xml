@@ -16,6 +16,7 @@
         <added pattern="\Bitrix\Main\Event.getParameter(key)" />
         <added pattern="\app\models\LogOperations.mark(name,data)" />
         <added pattern="\Bitrix\Main\HttpRequest.getPost(name)" />
+        <added pattern="\Bitrix\Disk\Internals\Engine\ActionFilter\CheckReadPermission.generatePermissionError(code)" />
       </blacklist>
     </blacklists>
   </component>
