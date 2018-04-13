@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'Alt+F9'</ShortCut>
+          <Description>Run to Cursor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Annotate">
