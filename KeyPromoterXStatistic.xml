@@ -25,6 +25,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'scratch_60.php'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'scratch_60.php'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
