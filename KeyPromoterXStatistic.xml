@@ -86,7 +86,7 @@
           <IdeaActionID>RunToCursor</IdeaActionID>
           <ShortCut>'Alt+F9'</ShortCut>
           <Description>Run to Cursor</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -134,7 +134,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'urlrewrite.php'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
