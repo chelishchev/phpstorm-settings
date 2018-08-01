@@ -110,7 +110,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -198,7 +198,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'scratch_3.php'">
