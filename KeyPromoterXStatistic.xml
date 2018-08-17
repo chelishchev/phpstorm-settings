@@ -89,6 +89,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Forward">
+        <Item>
+          <IdeaActionID>Forward</IdeaActionID>
+          <ShortCut>'Button5 Click' or 'Alt+Shift+Right'</ShortCut>
+          <Description>Forward</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
         <Item>
           <IdeaActionID>DatabaseView.CopyDdlAction</IdeaActionID>
