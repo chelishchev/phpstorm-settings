@@ -9,6 +9,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Base on This Class">
+        <Item>
+          <IdeaActionID>TypeHierarchyBase.BaseOnThisType</IdeaActionID>
+          <ShortCut>'Ctrl+H'</ShortCut>
+          <Description>Base on This Class</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>CloseContent</IdeaActionID>
