@@ -1,12 +1,28 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add to VCS">
         <Item>
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add to VCS</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Base on This Class">
+        <Item>
+          <IdeaActionID>TypeHierarchyBase.BaseOnThisType</IdeaActionID>
+          <ShortCut>'Ctrl+H'</ShortCut>
+          <Description>Base on This Class</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -73,6 +89,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'scratch_62.php'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'scratch_62.php'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'scratch_7.php'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -81,11 +105,27 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug...">
+        <Item>
+          <IdeaActionID>ChooseDebugConfiguration</IdeaActionID>
+          <ShortCut>'Alt+Shift+F9'</ShortCut>
+          <Description>Debug...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Execute">
         <Item>
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="File Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+2'</ShortCut>
+          <Description>File Path</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -246,7 +286,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -254,7 +294,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'scratch_3.php'">
