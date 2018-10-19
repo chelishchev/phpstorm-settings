@@ -313,11 +313,35 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'numerator (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'numerator (PHPUnit)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testFunctionCall (PHPUnit)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'testFunctionCall (PHPUnit)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'tests (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'tests (PHPUnit)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'type (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'type (PHPUnit)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
