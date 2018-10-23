@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'Ctrl+Alt+A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Base on This Class">
@@ -22,6 +22,14 @@
           <IdeaActionID>TypeHierarchyBase.BaseOnThisType</IdeaActionID>
           <ShortCut>'Ctrl+H'</ShortCut>
           <Description>Base on This Class</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cancel Running Statements">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Cancel Running Statements</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -62,7 +70,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'scratch_23.php'">
@@ -89,6 +97,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'scratch_52.php'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'scratch_52.php'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'scratch_62.php'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -111,6 +127,14 @@
           <ShortCut>'Alt+Shift+F9'</ShortCut>
           <Description>Debug...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Duplicate">
+        <Item>
+          <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Duplicate</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -150,7 +174,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -158,7 +182,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move to Another Changelist...">
@@ -185,6 +209,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V'</ShortCut>
+          <Description>Paste</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Properties</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refactor This...">
         <Item>
           <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
@@ -206,7 +246,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -249,6 +289,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
@@ -257,12 +305,20 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'testFunctionCall (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testFunctionCall (PHPUnit)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run to Cursor">
         <Item>
           <IdeaActionID>RunToCursor</IdeaActionID>
           <ShortCut>'Alt+F9'</ShortCut>
           <Description>Run to Cursor</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -270,7 +326,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -294,7 +350,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>10</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'scratch_3.php'">
@@ -326,7 +382,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -375,6 +431,14 @@
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from X clipboard">

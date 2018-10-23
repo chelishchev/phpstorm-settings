@@ -4,7 +4,8 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="``" value="-&gt;" description="-&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="``" value="-&gt;$a$" description="-&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -35,7 +36,7 @@
     </context>
   </template>
   <template name="r" value="return $A$;" description="return" toReformat="true" toShortenFQNames="true">
-    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="A" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
