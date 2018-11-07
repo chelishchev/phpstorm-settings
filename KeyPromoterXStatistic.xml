@@ -481,6 +481,12 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exit Distraction Free Mode">
+        <Item>
+          <IdeaActionID>ToggleDistractionFreeMode</IdeaActionID>
+          <Description>Exit Distraction Free Mode</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Implementation(s)">
         <Item>
           <IdeaActionID>GotoImplementation</IdeaActionID>
