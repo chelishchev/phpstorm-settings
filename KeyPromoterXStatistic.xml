@@ -241,14 +241,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Refresh">
-        <Item>
-          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Refresh</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Reload Page">
         <Item>
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
@@ -501,6 +493,14 @@
           <ShortCut>'Button2 Click'</ShortCut>
           <Description>Paste from X clipboard</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
