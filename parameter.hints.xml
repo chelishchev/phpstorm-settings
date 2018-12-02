@@ -31,6 +31,7 @@
         <added pattern="\CAllMain.IncludeComponent(componentName,componentTemplate,arParams,parentComponent,arFunctionParams)" />
         <added pattern="\Bitrix\Main\ORM\Query\Query.where(filter)" />
         <added pattern="\check(action,expectedClassName)" />
+        <added pattern="\Bitrix\Main\ModuleManager.isModuleInstalled(moduleName)" />
       </blacklist>
     </blacklists>
   </component>
