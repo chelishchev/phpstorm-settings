@@ -32,6 +32,7 @@
         <added pattern="\Bitrix\Main\ORM\Query\Query.where(filter)" />
         <added pattern="\check(action,expectedClassName)" />
         <added pattern="\Bitrix\Main\ModuleManager.isModuleInstalled(moduleName)" />
+        <added pattern="\Bitrix\Main\Engine\AutoWire\Binder.appendAutoWiredParameter(parameter)" />
       </blacklist>
     </blacklists>
   </component>
