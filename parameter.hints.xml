@@ -33,6 +33,7 @@
         <added pattern="\check(action,expectedClassName)" />
         <added pattern="\Bitrix\Main\ModuleManager.isModuleInstalled(moduleName)" />
         <added pattern="\Bitrix\Main\Engine\AutoWire\Binder.appendAutoWiredParameter(parameter)" />
+        <added pattern="\CDiskFolderListComponent.filterB24Feature(feature,js)" />
       </blacklist>
     </blacklists>
   </component>
