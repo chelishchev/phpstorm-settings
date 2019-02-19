@@ -41,6 +41,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Collapse Recursively">
+        <Item>
+          <IdeaActionID>CollapseRegionRecursively</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+NumPad -' or 'Ctrl+Alt+Minus'</ShortCut>
+          <Description>Collapse Recursively</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare">
         <Item>
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
@@ -151,6 +159,30 @@
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Duplicate</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand">
+        <Item>
+          <IdeaActionID>ExpandRegion</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad +' or 'Ctrl+='</ShortCut>
+          <Description>Expand</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand All">
+        <Item>
+          <IdeaActionID>ExpandAllRegions</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+NumPad +' or 'Ctrl+Shift+='</ShortCut>
+          <Description>Expand All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand Recursively">
+        <Item>
+          <IdeaActionID>ExpandRegionRecursively</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+NumPad +' or 'Ctrl+Alt+='</ShortCut>
+          <Description>Expand Recursively</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
