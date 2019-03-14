@@ -4,11 +4,13 @@
     <extensionMap>
       <mapping pattern="clitrix" type="PHP" />
       <mapping ext="ctp" type="PHP" />
-      <mapping pattern="dreams" type="PLAIN_TEXT" />
       <mapping pattern=".title" type="PLAIN_TEXT" />
+      <mapping pattern="imporve" type="PLAIN_TEXT" />
+      <mapping pattern="4" type="PLAIN_TEXT" />
+      <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="imporve" type="PLAIN_TEXT" />
+      <mapping pattern="dreams" type="PLAIN_TEXT" />
       <mapping pattern=".hidden" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="anton" type="PLAIN_TEXT" />
