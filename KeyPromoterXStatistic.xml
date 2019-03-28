@@ -310,7 +310,7 @@
           <IdeaActionID>UsageView.ShowRecentFindUsages</IdeaActionID>
           <ShortCut>'Ctrl+E'</ShortCut>
           <Description>Recent Find Usages</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
@@ -342,7 +342,7 @@
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BinderTest.testAutowiring'">
@@ -367,6 +367,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'http://one.ivandivan/bitrix/services/main/ajax.php'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'scratch#2'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'scratch#2'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'scratch_1.php'">
@@ -518,7 +526,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'scratch_3.php'">
