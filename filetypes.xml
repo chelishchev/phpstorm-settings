@@ -13,6 +13,7 @@
       <mapping pattern="dreams" type="PLAIN_TEXT" />
       <mapping pattern=".hidden" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="anton" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="kml" type="XML" />
     </extensionMap>
