@@ -545,6 +545,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ajax.php'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ajax.php'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'scratch_3.php'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
