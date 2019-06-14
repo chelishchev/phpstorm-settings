@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="clitrix" type="PHP" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern=".hgrc" type="PLAIN_TEXT" />
       <mapping pattern="imporve" type="PLAIN_TEXT" />
       <mapping pattern="dreams" type="PLAIN_TEXT" />
       <mapping pattern="anton" type="PLAIN_TEXT" />
