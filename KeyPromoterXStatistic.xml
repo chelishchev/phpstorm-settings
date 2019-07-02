@@ -569,6 +569,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Source Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Source Editor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Out">
         <Item>
           <IdeaActionID>StepOut</IdeaActionID>
