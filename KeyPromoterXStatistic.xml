@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID>CollapseAllRegions</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+NumPad -' or 'Ctrl+Shift+Minus'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Collapse Recursively">
         <Item>
           <IdeaActionID>CollapseRegionRecursively</IdeaActionID>
