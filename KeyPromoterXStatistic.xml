@@ -17,6 +17,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Amend Commit">
+        <Item>
+          <IdeaActionID>Vcs.ToggleAmendCommitMode</IdeaActionID>
+          <ShortCut>'Alt+M'</ShortCut>
+          <Description>Amend Commit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Base on This Class">
         <Item>
           <IdeaActionID>TypeHierarchyBase.BaseOnThisType</IdeaActionID>
