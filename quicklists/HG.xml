@@ -8,4 +8,5 @@
   <action id="hg4idea.branches" />
   <action id="QuickList.$Separator$" />
   <action id="LocalHistory.ShowHistory" />
+  <action id="CompareClipboardWithSelection" />
 </list>
