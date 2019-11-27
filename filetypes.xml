@@ -12,6 +12,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="anton" type="PLAIN_TEXT" />
       <mapping pattern=".title" type="PLAIN_TEXT" />
+      <mapping pattern="barista" type="PLAIN_TEXT" />
       <mapping pattern=".hgrc" type="PLAIN_TEXT" />
       <mapping pattern=".hidden" type="PLAIN_TEXT" />
       <mapping pattern="imporve" type="PLAIN_TEXT" />
