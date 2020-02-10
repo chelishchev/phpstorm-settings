@@ -18,6 +18,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorDeleteToWordStart">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346889703" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FindInPath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346870311" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="FindUsages">
           <value>
             <ActionSummary>
@@ -42,6 +58,30 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="List-selectPreviousColumn">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346862728" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="NavBar-cancel">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346732585" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ShowNavBar">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346862218" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
@@ -53,8 +93,32 @@
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581346650628" />
+              <option name="last" value="1581346659642" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346970499" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$6">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346867671" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$7">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346867264" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
