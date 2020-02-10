@@ -5,8 +5,16 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581344229736" />
-              <option name="times" value="2" />
+              <option name="last" value="1581346460270" />
+              <option name="times" value="8" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditSource">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346523406" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -18,11 +26,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Forward">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346456966" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581344236312" />
-              <option name="times" value="2" />
+              <option name="last" value="1581346378446" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.codeInsight.daemon.NavigateAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346381423" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581346650628" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
