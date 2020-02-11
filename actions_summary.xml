@@ -29,8 +29,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581413133533" />
-              <option name="times" value="1" />
+              <option name="last" value="1581419647720" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -605,8 +605,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581414246687" />
-              <option name="times" value="6" />
+              <option name="last" value="1581419645617" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -645,8 +645,8 @@
         <entry key="tasks.switch">
           <value>
             <ActionSummary>
-              <option name="last" value="1581413137081" />
-              <option name="times" value="1" />
+              <option name="last" value="1581419648356" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
