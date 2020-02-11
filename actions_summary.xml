@@ -34,6 +34,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Annotate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581421387937" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Back">
           <value>
             <ActionSummary>
@@ -309,8 +317,8 @@
         <entry key="EditorSelectWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1581411183302" />
-              <option name="times" value="28" />
+              <option name="last" value="1581421476649" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,16 +381,24 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1581411155214" />
-              <option name="times" value="6" />
+              <option name="last" value="1581421476870" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581346870311" />
-              <option name="times" value="2" />
+              <option name="last" value="1581421453750" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FindNext">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581421491736" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -565,8 +581,16 @@
         <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581411173423" />
-              <option name="times" value="64" />
+              <option name="last" value="1581421482273" />
+              <option name="times" value="68" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.find.editorHeaderActions.ToggleWholeWordsOnlyAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581421478942" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -574,6 +598,22 @@
           <value>
             <ActionSummary>
               <option name="last" value="1581409165466" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581421385714" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581421384993" />
               <option name="times" value="2" />
             </ActionSummary>
           </value>
