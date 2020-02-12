@@ -61,8 +61,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581499352896" />
-              <option name="times" value="27" />
+              <option name="last" value="1581517676642" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581502134735" />
-              <option name="times" value="194" />
+              <option name="last" value="1581517654123" />
+              <option name="times" value="199" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,24 +525,24 @@
         <entry key="GotoAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581501467492" />
-              <option name="times" value="9" />
+              <option name="last" value="1581517420694" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1581407882461" />
-              <option name="times" value="2" />
+              <option name="last" value="1581517650244" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581499347321" />
-              <option name="times" value="32" />
+              <option name="last" value="1581517682451" />
+              <option name="times" value="36" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +653,8 @@
         <entry key="SelectIn">
           <value>
             <ActionSummary>
-              <option name="last" value="1581495589987" />
-              <option name="times" value="5" />
+              <option name="last" value="1581517656276" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -853,8 +853,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581501470063" />
-              <option name="times" value="20" />
+              <option name="last" value="1581517655651" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -962,11 +962,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="hg4idea.branches">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581517424740" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="org.zmlx.hg4idea.branch.HgCommonBranchActions$UpdateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581495576140" />
-              <option name="times" value="3" />
+              <option name="last" value="1581517429295" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
