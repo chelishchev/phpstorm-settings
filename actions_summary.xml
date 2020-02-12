@@ -13,8 +13,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581499228290" />
-              <option name="times" value="3" />
+              <option name="last" value="1581500599406" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +101,8 @@
         <entry key="CompareClipboardWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581498323488" />
-              <option name="times" value="2" />
+              <option name="last" value="1581500603556" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +181,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581499221344" />
-              <option name="times" value="41" />
+              <option name="last" value="1581500597964" />
+              <option name="times" value="42" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,8 +525,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581425263342" />
-              <option name="times" value="4" />
+              <option name="last" value="1581500594171" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,8 +581,8 @@
         <entry key="QuickList.HG">
           <value>
             <ActionSummary>
-              <option name="last" value="1581498321618" />
-              <option name="times" value="2" />
+              <option name="last" value="1581500600702" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -661,8 +661,8 @@
         <entry key="Switcher">
           <value>
             <ActionSummary>
-              <option name="last" value="1581432775048" />
-              <option name="times" value="7" />
+              <option name="last" value="1581500598323" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -813,8 +813,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581497181355" />
-              <option name="times" value="17" />
+              <option name="last" value="1581500595196" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -845,8 +845,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1581496012596" />
-              <option name="times" value="33" />
+              <option name="last" value="1581500594851" />
+              <option name="times" value="34" />
             </ActionSummary>
           </value>
         </entry>
@@ -933,8 +933,8 @@
         <entry key="tasks.switch">
           <value>
             <ActionSummary>
-              <option name="last" value="1581495447099" />
-              <option name="times" value="5" />
+              <option name="last" value="1581500579258" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
