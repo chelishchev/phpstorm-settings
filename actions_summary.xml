@@ -77,8 +77,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581674268065" />
-              <option name="times" value="89" />
+              <option name="last" value="1581690654055" />
+              <option name="times" value="92" />
             </ActionSummary>
           </value>
         </entry>
@@ -645,8 +645,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581674384974" />
-              <option name="times" value="100" />
+              <option name="last" value="1581690627190" />
+              <option name="times" value="102" />
             </ActionSummary>
           </value>
         </entry>
@@ -1037,8 +1037,8 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581673848305" />
-              <option name="times" value="6" />
+              <option name="last" value="1581690967361" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
