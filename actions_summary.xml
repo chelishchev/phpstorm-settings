@@ -61,8 +61,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581948401719" />
-              <option name="times" value="11" />
+              <option name="last" value="1582018027331" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -77,8 +77,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581950399752" />
-              <option name="times" value="99" />
+              <option name="last" value="1582018885099" />
+              <option name="times" value="108" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +181,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581950291219" />
-              <option name="times" value="450" />
+              <option name="last" value="1582018827029" />
+              <option name="times" value="451" />
             </ActionSummary>
           </value>
         </entry>
@@ -645,24 +645,24 @@
         <entry key="GotoClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1581948027276" />
-              <option name="times" value="10" />
+              <option name="last" value="1582018827554" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581950400887" />
-              <option name="times" value="112" />
+              <option name="last" value="1582018695525" />
+              <option name="times" value="119" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581949911882" />
-              <option name="times" value="26" />
+              <option name="last" value="1582018080368" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +677,8 @@
         <entry key="HideActiveWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581940136455" />
-              <option name="times" value="13" />
+              <option name="last" value="1582018026198" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -885,8 +885,8 @@
         <entry key="SelectIn">
           <value>
             <ActionSummary>
-              <option name="last" value="1581948349592" />
-              <option name="times" value="17" />
+              <option name="last" value="1582018907869" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
@@ -989,8 +989,8 @@
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1581948393398" />
-              <option name="times" value="14" />
+              <option name="last" value="1582018096669" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -1069,8 +1069,8 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581693709489" />
-              <option name="times" value="9" />
+              <option name="last" value="1582018842578" />
+              <option name="times" value="15" />
             </ActionSummary>
           </value>
         </entry>
@@ -1237,8 +1237,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581949912848" />
-              <option name="times" value="63" />
+              <option name="last" value="1582018830651" />
+              <option name="times" value="65" />
             </ActionSummary>
           </value>
         </entry>
@@ -1277,8 +1277,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581948400413" />
-              <option name="times" value="64" />
+              <option name="last" value="1582018028632" />
+              <option name="times" value="66" />
             </ActionSummary>
           </value>
         </entry>
@@ -1469,8 +1469,8 @@
         <entry key="org.zmlx.hg4idea.branch.HgCommonBranchActions$UpdateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581672272604" />
-              <option name="times" value="5" />
+              <option name="last" value="1582018039494" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
