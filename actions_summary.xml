@@ -213,8 +213,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582274390123" />
-              <option name="times" value="594" />
+              <option name="last" value="1582278581746" />
+              <option name="times" value="596" />
             </ActionSummary>
           </value>
         </entry>
@@ -709,8 +709,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582273970383" />
-              <option name="times" value="51" />
+              <option name="last" value="1582278469921" />
+              <option name="times" value="52" />
             </ActionSummary>
           </value>
         </entry>
@@ -1247,6 +1247,14 @@
             <ActionSummary>
               <option name="last" value="1581672355005" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Vcs.UpdateProject">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582278809764" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
