@@ -1,0 +1,34 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="betfair" uuid="8b60acb9-4939-4f3c-ac10-81d0e4ef0774">
+      <driver-ref>3c30cd72-d34e-432b-9901-0b5671e77be7</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost/betfair</jdbc-url>
+      <default-dialect>PostgreSQL</default-dialect>
+      <libraries>
+        <library>
+          <url>jar://$USER_HOME$/www/betfair/postgresql-9.2-1002.jdbc4.jar!/</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/www/betfair/postgresql-driver-license.txt</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="dress" uuid="880de29c-2dd8-4bfd-9043-e1b7e757c75a">
+      <driver-ref>3c30cd72-d34e-432b-9901-0b5671e77be7</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost/dress</jdbc-url>
+      <default-dialect>PostgreSQL</default-dialect>
+      <libraries>
+        <library>
+          <url>jar://$USER_HOME$/www/betfair/postgresql-9.2-1002.jdbc4.jar!/</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/www/betfair/postgresql-driver-license.txt</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</application>

@@ -1,19 +1,17 @@
 <scheme name="Obsidian" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
     <option name="CARET_COLOR" value="c1cbd2" />
     <option name="CARET_ROW_COLOR" value="2f393c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="FILESTATUS_MODIFIED" value="6a76fc" />
-    <option name="FILESTATUS_RENAMED" value="67f86f" />
+    <option name="FILESTATUS_MODIFIED" value="8cbbad" />
     <option name="GUTTER_BACKGROUND" value="293134" />
     <option name="HTML_TAG_TREE_LEVEL0" value="d955c1" />
     <option name="HTML_TAG_TREE_LEVEL1" value="ec7600" />
@@ -24,17 +22,11 @@
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
-    <option name="RECURSIVE_CALL_ATTRIBUTES" value="404e51" />
     <option name="RIGHT_MARGIN_COLOR" value="404e51" />
     <option name="SELECTED_INDENT_GUIDE" value="f3db2e" />
     <option name="SELECTED_TEARLINE_COLOR" value="404e51" />
     <option name="SELECTION_BACKGROUND" value="214283" />
     <option name="TEARLINE_COLOR" value="404e51" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
     <option name="WHITESPACES" value="343f43" />
   </colors>
   <attributes>
@@ -115,6 +107,11 @@
     <option name="CSS.PROPERTY_VALUE">
       <value>
         <option name="FOREGROUND" value="f0f0f0" />
+      </value>
+    </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="9cb4aa" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
@@ -357,7 +354,8 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="404e51" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ff" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -389,13 +387,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="f0f0f0" />
-      </value>
-    </option>
-    <option name="HTML_CODE">
-      <value>
-        <option name="FOREGROUND" value="f0f0f0" />
-        <option name="BACKGROUND" value="293134" />
+        <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
     <option name="HTML_COMMENT">
@@ -551,11 +543,6 @@
         <option name="FOREGROUND" value="f3db2e" />
       </value>
     </option>
-    <option name="NOT_TOP_FRAME_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="404e51" />
-      </value>
-    </option>
     <option name="PHP_BRACKETS">
       <value>
         <option name="FOREGROUND" value="e8e2b7" />
@@ -627,8 +614,6 @@
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="678cb1" />
-        <option name="EFFECT_COLOR" value="6d9ad1" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_PREDEFINED SYMBOL">

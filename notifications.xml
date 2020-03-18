@@ -1,0 +1,20 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Database" displayType="TOOL_WINDOW" />
+    <notification groupId="Database editor log" displayType="NONE" />
+    <notification groupId="Database log" displayType="NONE" />
+    <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Mercurial Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Mercurial Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" />
+    <notification groupId="Web Deployment" displayType="TOOL_WINDOW" shouldLog="false" />
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log($A$)" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HTML_TEXT" value="true" />
+      <option name="PHP" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
+

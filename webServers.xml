@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3abb3be8-3863-43f0-a836-3024dae754a4" name="fz (tasks)" url="http://task.footballzone.ru">
+        <fileTransfer host="tasks.footballzone.ru" port="1990" privateKey="$USER_HOME$/.ssh/id_dsa" rootFolder="/home/fz/tasks.footballzone.ru/www/basic" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1990" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="72d97d06-321d-4fee-acac-c8ef1114ea7e" name="inru" url="http://inruonline.com">
+        <fileTransfer host="inruonline.com" port="1990" privateKey="$USER_HOME$/.ssh/id_dsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1990" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="68fec23e-081d-48de-9f78-f4cebdbc0154" name="inru_dynamic" url="http://test.inruonline.com">
+        <fileTransfer host="inruonline.com" port="1990" privateKey="$USER_HOME$/.ssh/id_dsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1990" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

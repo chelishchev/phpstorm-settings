@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="PHP">
   <template name="a" value="@author Ivan Chelishchev &lt;chelishchev@gmail.com&gt;" description="Author" toReformat="false" toShortenFQNames="true">
     <context>
@@ -17,23 +18,39 @@
   </template>
   <template name="ech" value="&lt;?php echo $END$ ?&gt;" description="echo in php tags" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="CSS" value="true" />
-      <option name="HTML" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HAML" value="true" />
+      <option name="HTML_TEXT" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="OTHER" value="true" />
       <option name="PHP" value="true" />
-      <option name="SQL" value="true" />
       <option name="XML" value="true" />
+      <option name="SQL" value="true" />
+      <option name="XSL_TEXT" value="true" />
+      <option name="JSP" value="true" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="true" />
     </context>
   </template>
   <template name="yt" value="Y::t('$NAME$', '$END$')" description="Y::t()" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="CSS" value="true" />
-      <option name="HTML" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HAML" value="true" />
+      <option name="HTML_TEXT" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="OTHER" value="true" />
       <option name="PHP" value="true" />
-      <option name="SQL" value="true" />
       <option name="XML" value="true" />
+      <option name="SQL" value="true" />
+      <option name="XSL_TEXT" value="true" />
+      <option name="JSP" value="true" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="CSS_PROPERTY_VALUE" value="true" />
     </context>
   </template>
   <template name="fore" value="foreach ($ITERABLE$ as $$$VAR_VALUE$) {&#10;    $END$&#10;}&#10;unset($$$VAR_VALUE$);" description="foreach(iterable_expr as $value) {...}" toReformat="true" toShortenFQNames="true">
@@ -55,17 +72,19 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ya" value="\Yii::$app-&gt;" description="Yii::app()-&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="ya" value="Y::a()-&gt;" description="Y::a()-&gt;" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="true" />
       <option name="PHP" value="true" />
+      <option name="HTML" value="true" />
     </context>
   </template>
   <template name="rf" value="function($data, $row, $this){&#10;    $F$&#10;    return;&#10;}" description="function() in value GridView" toReformat="false" toShortenFQNames="true">
     <variable name="F" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="true" />
       <option name="PHP" value="true" />
+      <option name="HTML" value="true" />
     </context>
   </template>
   <template name="act" value="public function action$Name$($Arg$)&#10;{&#10;    $Body$&#10;}" description="public function action" toReformat="true" toShortenFQNames="true">
@@ -78,53 +97,33 @@
   </template>
   <template name="yu" value="Y::user()-&gt;" description="Y::user()" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="true" />
       <option name="PHP" value="true" />
+      <option name="HTML" value="true" />
     </context>
   </template>
   <template name="cfu" value="function($data, $row, $this){&#10;    $a$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="true" />
       <option name="PHP" value="true" />
+      <option name="HTML" value="true" />
     </context>
   </template>
   <template name="``" value="-&gt;" description="-&gt;" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="true" />
       <option name="PHP" value="true" />
+      <option name="HTML" value="true" />
     </context>
   </template>
   <template name="yp" value="Y::params('$A$');" description="Y::params" toReformat="false" toShortenFQNames="true">
     <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="PHP" value="true" />
       <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="fp" value="file_put_contents('out.oooooooo', $A$);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="fde" value="file_put_contents($_SERVER['DOCUMENT_ROOT'] . '/log_deb.txt', var_export($A$, true), FILE_APPEND);" description="file debug" toReformat="false" toShortenFQNames="true">
-    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="y" value="\Yii::$END$" description="Yii::" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="=" value=" =&gt; $END$," description="=&gt;" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
+

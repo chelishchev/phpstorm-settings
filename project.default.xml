@@ -4,19 +4,18 @@
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-        <OptionsSetting value="true" id="Add" />
-        <OptionsSetting value="true" id="Remove" />
-        <OptionsSetting value="true" id="Checkout" />
-        <OptionsSetting value="true" id="Update" />
-        <OptionsSetting value="true" id="Status" />
-        <OptionsSetting value="true" id="Edit" />
-        <ConfirmationsSetting value="0" id="Add" />
-        <ConfirmationsSetting value="0" id="Remove" />
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
       </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.editor" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
       </component>
     </defaultProject>
   </component>
