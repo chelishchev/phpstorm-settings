@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="plan" type="PLAIN_TEXT" />
       <mapping pattern=".title" type="PLAIN_TEXT" />
+      <mapping pattern="dbconfig" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
