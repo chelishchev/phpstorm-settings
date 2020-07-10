@@ -18,7 +18,6 @@
     <entry key="darcula.use.native.fonts.on.linux" value="false" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="dumb.aware.run.configurations" value="true" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
