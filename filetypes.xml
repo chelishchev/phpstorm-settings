@@ -1,11 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;yiilite.php;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;yiilite.php;" />
     <extensionMap>
-      <mapping pattern="plan" type="PLAIN_TEXT" />
-      <mapping pattern=".title" type="PLAIN_TEXT" />
       <mapping pattern="dbconfig" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="plan" type="PLAIN_TEXT" />
+      <mapping pattern=".title" type="PLAIN_TEXT" />
+      <mapping ext="full" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
