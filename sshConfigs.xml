@@ -1,10 +1,10 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="tasks.footballzone.ru" id="21a1abc3-6c18-42a2-b712-5d39327a6f3b" keyPath="$USER_HOME$/.ssh/id_dsa" port="1990" customName="fz (tasks)" nameFormat="CUSTOM" username="root">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="tasks.footballzone.ru" id="21a1abc3-6c18-42a2-b712-5d39327a6f3b" keyPath="$USER_HOME$/.ssh/id_dsa" port="1990" customName="fz (tasks)" nameFormat="CUSTOM" username="root">
         <option name="customName" value="fz (tasks)" />
       </sshConfig>
-      <sshConfig host="inruonline.com" id="b7c6ff0f-ea03-4d5c-a94b-00ea1e2e660a" keyPath="$USER_HOME$/.ssh/id_dsa" port="1990" customName="inru" nameFormat="CUSTOM" username="root">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="inruonline.com" id="b7c6ff0f-ea03-4d5c-a94b-00ea1e2e660a" keyPath="$USER_HOME$/.ssh/id_dsa" port="1990" customName="inru" nameFormat="CUSTOM" username="root">
         <option name="customName" value="inru" />
       </sshConfig>
       <sshConfig host="tasks.footballzone.ru" id="956fd7d8-a768-48c7-b20d-081da1e260db" keyPath="$USER_HOME$/.ssh/id_dsa" port="1990" nameFormat="DESCRIPTIVE" username="root" />
