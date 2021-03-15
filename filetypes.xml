@@ -7,6 +7,7 @@
       <mapping pattern="plan" type="PLAIN_TEXT" />
       <mapping pattern=".title" type="PLAIN_TEXT" />
       <mapping ext="full" type="PLAIN_TEXT" />
+      <mapping ext="xt" type="PLAIN_TEXT" />
       <mapping ext="ru" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
