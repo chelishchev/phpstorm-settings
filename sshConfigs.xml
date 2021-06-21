@@ -9,6 +9,12 @@
       </sshConfig>
       <sshConfig host="tasks.footballzone.ru" id="956fd7d8-a768-48c7-b20d-081da1e260db" keyPath="$USER_HOME$/.ssh/id_dsa" port="1990" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="inruonline.com" id="e1a59ab1-8e99-4bb1-92bd-141b62311cf3" keyPath="$USER_HOME$/.ssh/id_dsa" port="1990" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="tasks.footballzone.ru" id="f1ab61a9-6530-439e-bb07-83fc65742a9c" keyPath="$USER_HOME$/.ssh/id_dsa" port="1990" customName="fz (tasks)" nameFormat="CUSTOM">
+        <option name="customName" value="fz (tasks)" />
+      </sshConfig>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="inruonline.com" id="287bb7a3-b7c4-44dc-b210-34c27b54b803" keyPath="$USER_HOME$/.ssh/id_dsa" port="1990" customName="inru" nameFormat="CUSTOM">
+        <option name="customName" value="inru" />
+      </sshConfig>
     </configs>
   </component>
 </application>
