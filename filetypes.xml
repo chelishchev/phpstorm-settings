@@ -2,17 +2,15 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;yiilite.php;" />
     <extensionMap>
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="dbconfig" type="PLAIN_TEXT" />
-      <mapping pattern="plan" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="plan" type="PLAIN_TEXT" />
       <mapping pattern=".title" type="PLAIN_TEXT" />
       <mapping ext="full" type="PLAIN_TEXT" />
       <mapping ext="xt" type="PLAIN_TEXT" />
       <mapping ext="ru" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
